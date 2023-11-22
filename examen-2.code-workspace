@@ -1,12 +1,9 @@
 {
   "folders": [
-	{
-		"path": "."
-	},
-	{
-		"path": "../exercice-bootstrap-1-layout-desktop"
-	}
-],
+    {
+      "path": "."
+    }
+  ],
   "settings": {
     "liveServer.settings.multiRootWorkspaceName": "examen-2"
   }
