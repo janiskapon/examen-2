@@ -260,6 +260,11 @@ footer {
   margin-left: 20px;
 }
 
+footer a {
+  text-decoration: underline;
+  color: #dcbe3f;
+}
+
 .burger div {
   transition: transform 0.3s, opacity 0.3s; /* on ajoute une transition pour que le changement se fasse de manière fluide */
 }
